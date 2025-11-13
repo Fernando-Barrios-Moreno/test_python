@@ -1,3 +1,6 @@
+#I was absent in class today and I didn't have a partner to do the code with so I did it myself and added you as a collaborator instead.
+#Sorry for not attending your class.
+
 import random
 
 print("Welcome to Rock-Paper-Scissors!")
